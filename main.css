@@ -1,10 +1,9 @@
 body {
     margin: 0;
+    color: red;
 }
 main {
     font-size: 20px;
     }
 
-header{
-    color: yellow;
-}
+
