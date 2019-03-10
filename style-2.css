@@ -1,0 +1,137 @@
+* {
+    transition: all .1s ease-in;
+    }
+body {
+    font-size: 100%;
+    font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;
+    }
+h1, h2 {
+    color: #ffffff;
+    padding-left: 217px;
+    }
+#weather {
+    box-sizing: border-box;
+        }
+.tables {
+    list-style: none;
+    font-family: sans-serif;
+    text-align: center;
+    padding: 0;
+    font-size: 0;
+    color: white;
+    }
+.tables li {
+    display: inline-block;
+    font-size: 30px;
+         }
+li:hover {
+    background: #c0e0fe;
+    border-color: white;
+    opacity: 10%;
+}
+li {
+    list-style-type: none;
+    margin: 0;
+    padding: 35px;
+    box-sizing: border-box;
+    text-align: center;
+        }
+.rectangle {
+    display: inline-block;
+    background: #3399cc;
+    border: 24px solid #2b81ac;
+    width: 1468px;
+    height: 963px;
+}
+.one {
+    background: #3399cc;
+    margin-left: 217px;
+    border: 4px white solid;
+    width: 478px;
+    height: 148px;
+    line-height: 0;
+    font-size: 50px;
+    }
+.two {
+    background: #33cccc;
+    border: 4px white solid;
+    width: 239px;
+    height: 148px;
+    line-height: 0;
+    font-size: 50px;
+}
+.three {
+    background: #996699;
+    border: 4px white solid;
+    width: 239px;
+    height: 148px;
+    line-height: 0;
+    font-size: 50px;
+}
+.four {
+    background: #c24747;
+    border: 4px white solid;
+    width: 239px;
+    height: 148px;
+    line-height: 0;
+    font-size: 50px;
+    margin-left: 217px;
+}
+.five {
+    background: #e2674a;
+    border: 4px white solid;
+    width: 239px;
+    height: 148px;
+    line-height: 0;
+    font-size: 50px;
+}
+.six {
+    background: #ffcc66;
+    border: 4px white solid;
+    width: 239px;
+    height: 148px;
+    line-height: 0;
+    font-size: 50px;
+}
+.seven {
+    background: #99cc99;
+    border: 4px white solid;
+    width: 239px;
+    height: 148px;
+    line-height: 0;
+    font-size: 50px;
+}
+.eight {
+    background: #669999;
+    border: 4px white solid;
+    width: 239px;
+    height: 148px;
+    line-height: 0;
+    font-size: 50px;
+    margin-left: 217px;
+}
+.nine {
+    background: #cc6699;
+    border: 4px white solid;
+    width: 478px;
+    height: 148px;
+    line-height: 0;
+    font-size: 50px;
+}
+.ten {
+    background: #339966;
+    border: 4px white solid;
+    width: 239px;
+    height: 148px;
+    line-height: 0;
+    font-size: 50px;
+}
+.eleven {
+    background: #666699;
+    border: 4px white solid;
+    width: 956px;
+    height: 148px;
+    line-height: 0;
+    font-size: 50px;
+    margin-left: 217px;
+}
